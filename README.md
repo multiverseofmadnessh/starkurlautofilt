@@ -115,25 +115,7 @@ python3 bot.py
 • /batch - to create link for multiple posts
 • /link - to create link for one post
 ```
-## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyPrincessSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyDeveloper)
-
-## with Love  
-* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDeveloper)
-
-
-## Thanks to 
- - 🦋 Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for helping us in this journey ❤️.
- - 🔺 From the side of [LazyDeveloper](https://github.com/LazyDeveloperr) Thank you [Team-EvaMaria](https://github.com/EvamariaTG) for their awesome repository.
- - 🔺 Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram).
- - 🔺 Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot).
- - 🔺 Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot).
- - Thanks To All Everyone In This Journey
-
-### Note
-
-[Join Developer Channel](https://telegram.dog/LazyDeveloper): LazyDeveloper
+## 
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
